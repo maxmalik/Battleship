@@ -1,6 +1,6 @@
 /*****************************
-** Exam 2 Battleship		**
-** Max Malik 				**
+** Exam 2 Battleship	    **
+** Max Malik 		    **
 ** Spring 2022              **
 *****************************/
 
